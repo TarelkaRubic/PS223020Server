@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\titov\\.nuget\\packages\\": {},
+    "C:\\Users\\StudentDev\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj",
+      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj",
       "projectName": "Share",
-      "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj",
-      "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\obj\\",
+      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj",
+      "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj",
         "projectName": "PS223020Server.BusinessLogic.Core",
-        "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj",
-        "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\obj\\",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj",
+        "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -60,20 +60,20 @@
         }
       }
     },
-    "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj",
         "projectName": "PS223020Server.BusinessLogic",
-        "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\obj\\",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -87,14 +87,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
               },
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
               },
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj"
               }
             }
           }
@@ -132,20 +132,20 @@
         }
       }
     },
-    "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj",
         "projectName": "PS223020Server.Core",
-        "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj",
-        "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\obj\\",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj",
+        "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -188,20 +188,20 @@
         }
       }
     },
-    "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
         "projectName": "PS223020Server.DataAccess.Core",
-        "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
-        "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\obj\\",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
+        "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -250,20 +250,20 @@
         }
       }
     },
-    "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj",
         "projectName": "PS223020Server.DataAccess",
-        "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -277,8 +277,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
               }
             }
           }
@@ -332,20 +332,20 @@
         }
       }
     },
-    "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
         "projectName": "PS223020Server",
-        "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
-        "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\obj\\",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
+        "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -359,20 +359,20 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
               },
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj"
               },
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj"
               },
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
               },
-              "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj"
               }
             }
           }
@@ -433,20 +433,20 @@
         }
       }
     },
-    "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj",
         "projectName": "Share",
-        "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj",
-        "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\obj\\",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\Share.csproj",
+        "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\Share\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

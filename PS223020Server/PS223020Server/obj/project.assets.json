@@ -1423,23 +1423,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\titov\\.nuget\\packages\\": {},
+    "C:\\Users\\StudentDev\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
+      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
       "projectName": "PS223020Server",
-      "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
-      "packagesPath": "C:\\Users\\titov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\obj\\",
+      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
+      "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\titov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\StudentDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1453,20 +1453,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
-              "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
             },
-            "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj"
             },
-            "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj": {
-              "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj"
             },
-            "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
-              "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
             },
-            "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\titov\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\PS223020Server\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj"
             }
           }
         }
