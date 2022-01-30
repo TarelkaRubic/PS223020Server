@@ -7,3 +7,12 @@ C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.Bus
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.csproj.CoreCompileInputs.cache
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.dll
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\bin\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.deps.json
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\bin\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.dll
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\bin\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.dll
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.BusinessLogic.Core\obj\Debug\netcoreapp3.1\PS223020Server.BusinessLogic.Core.pdb

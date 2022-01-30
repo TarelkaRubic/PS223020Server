@@ -7,3 +7,12 @@ C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\ne
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.csproj.CoreCompileInputs.cache
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.dll
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.pdb
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\bin\Debug\netcoreapp3.1\Share.deps.json
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\bin\Debug\netcoreapp3.1\Share.dll
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\bin\Debug\netcoreapp3.1\Share.pdb
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.dll
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\Share\obj\Debug\netcoreapp3.1\Share.pdb

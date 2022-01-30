@@ -14,6 +14,7 @@ namespace PS223020Server.Automapper
         {
             CreateMap<UserInformationBlo, UserInformationDto>();
             CreateMap<UserUpdateBlo, UserUpdateDto>();
+
         }
     }
 }

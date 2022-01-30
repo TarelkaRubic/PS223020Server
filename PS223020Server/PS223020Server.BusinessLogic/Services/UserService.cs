@@ -86,9 +86,9 @@ namespace PS223020Server.BusinessLogic.Services
             return userInfoBlo;
         }
 
-        public async Task<UserInformationBlo> Update(string numberPrefix, string number, string password, UserUpdateBlo userUpdateBlo)
+        public async Task<UserInformationBlo> Update(UserUpdateBlo userUpdateBlo)
         {
-            UserRto user = await _context.Users.FirstOrDefaultAsync(y => y.PhoneNumber == number && y.PhoneNumberPrefix == numberPrefix && y.Password == password);
+            UserRto user = await _context.Users.FirstOrDefaultAsync(y => y.PhoneNumber == userUpdateBlo.CurrentPhoneNumber && y.PhoneNumberPrefix == userUpdateBlo.CurrentNumberPrefix && y.Password == userUpdateBlo.CurrentNumberPassword);
 
             if (user == null) throw new NotFoundException("Токого пользователя нет");
 

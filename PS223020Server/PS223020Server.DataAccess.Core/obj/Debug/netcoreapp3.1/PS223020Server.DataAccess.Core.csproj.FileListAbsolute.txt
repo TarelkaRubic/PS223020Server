@@ -7,3 +7,12 @@ C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.Dat
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.csproj.CoreCompileInputs.cache
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.dll
 C:\Users\titov\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\bin\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.deps.json
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\bin\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.dll
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\bin\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.dll
+C:\Users\StudentDev\Documents\GitHub\PS223020Server\PS223020Server\PS223020Server.DataAccess.Core\obj\Debug\netcoreapp3.1\PS223020Server.DataAccess.Core.pdb
